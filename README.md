@@ -1,11 +1,8 @@
-# Programaci-nC-
-Derechos de autor: D4N13LCI
-Codigos hechos en C++ incluido juegos
-Estructura Condicional
-Estructura de Seleccion
-Puedes usar estos codigos para tus proyectos
-Copyright: D4N13LCI
-Codes made in C++ included games
-Conditional Structure
-Selection Structure
-You can use these codes for your projects
+# Programación en C++ (Códigos y Estructuras Fundamentales)
+Se autoriza la libre utilización de los códigos aquí presentados, con la atribución opcional a D4N13LCI.
+
+Cada código tiene como objetivo ilustrar la estructura básica de un programa en C++, enfatizando el funcionamiento intrínseco del lenguaje en su aplicación a herramientas de mayor complejidad.
+
+Atentamente,
+
+D4N13LCI
